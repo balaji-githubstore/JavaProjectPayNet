@@ -2,7 +2,7 @@ package com.paynet.collections;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//collections demo
 public class Demo1 {
 	
 	public static void main(String[] args) {
